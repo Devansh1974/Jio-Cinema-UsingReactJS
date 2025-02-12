@@ -71,20 +71,6 @@ A fully functional JioCinema clone built using **ReactJS**. This project replica
 
 ---
 
-### Folder Structure
-
-jiocinema-clone/
-├── public/                # Public assets like images and icons
-├── src/
-│   ├── components/        # React components (SearchBar, Footer, Carousel)
-│   ├── pages/             # Page-level components (HomePage, MovieDetail)
-│   ├── styles/            # CSS files for styling
-│   ├── App.js             # Main app entry point
-│   ├── index.js           # ReactDOM rendering
-├── package.json           # Project metadata and dependencies
-├── README.md              # Project documentation
-
----
 
 ## Contact
 
