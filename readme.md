@@ -1,4 +1,4 @@
-# JioCinema Clone
+# JioCinema Clone - Using React 
 
 A fully functional JioCinema clone built using **ReactJS**. This project replicates the UI and basic functionalities of the popular OTT platform, providing a seamless movie and TV show browsing experience.
 
